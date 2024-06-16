@@ -5,8 +5,8 @@ fork 自 Meroser的直播源仓库，私人用途，请勿公用
 
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
-m3u链接：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
-m3u链接2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
+m3u链接：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/CarlosLYT/tv-source/main/Private.m3u?token=GHSAT0AAAAAACTV5KINE2TEFXE5YOHHWTZIZTOU5HA`[推荐✨]
+m3u链接2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/CarlosLYT/tv-source/main/Private.m3u?token=GHSAT0AAAAAACTV5KINE2TEFXE5YOHHWTZIZTOU5HA`[推荐✨]
 
 ## 🛠️EPG
 
